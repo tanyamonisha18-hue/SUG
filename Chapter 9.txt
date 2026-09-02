@@ -1,0 +1,60 @@
+# Chapter 9: Discovering New Music
+
+## Discover New Music
+
+Spotify can help you find new songs, artists, and playlists. It recommends music based on what you listen to.
+
+## Explore Recommended Music
+
+You can find recommended music on the **Home** page.
+
+### Steps
+
+1. Open Spotify.
+2. Go to the **Home** page.
+3. Browse the recommended songs and playlists.
+4. Select a song or playlist.
+5. Select **Play**.
+
+## Find New Releases
+
+You can find new songs and albums from your favorite artists.
+
+### Steps
+
+1. Open Spotify.
+2. Select **Search**.
+3. Search for an artist.
+4. Open the artist's profile.
+5. Check their latest songs and albums.
+
+## Explore Playlists
+
+Spotify has playlists for different moods and activities.
+
+You can find playlists for:
+
+- Workout
+- Study
+- Travel
+- Party
+- Relaxation
+
+Select a playlist to view the songs and start listening.
+
+## Discover Similar Artists
+
+If you like an artist, you can explore other artists with similar music.
+
+1. Search for an artist you like.
+2. Open the artist's profile.
+3. Browse the recommended or related content.
+4. Select an artist to explore their music.
+
+## Save New Music
+
+If you find a song you like, you can save it for later.
+
+1. Open the song.
+2. Select the **Like** button.
+3. Find the song later in **Your Library**.
