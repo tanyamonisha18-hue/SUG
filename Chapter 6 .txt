@@ -1,0 +1,65 @@
+# Chapter 6: Playing and Controlling Music
+
+## Play a Song
+
+Spotify allows you to play songs from albums, playlists, and search results.
+
+Follow these steps to play a song:
+
+1. Open Spotify.
+2. Search for a song.
+3. Select the song.
+4. Select **Play**.
+
+The song will start playing.
+
+## Pause a Song
+
+You can pause a song at any time.
+
+1. Open the music player.
+2. Select **Pause**.
+
+Select **Play** again to continue listening.
+
+## Skip a Song
+
+You can move to the next song while listening to music.
+
+1. Open the music player.
+2. Select **Next**.
+
+The next song will start playing.
+
+## Play the Previous Song
+
+You can return to the previous song.
+
+1. Open the music player.
+2. Select **Previous**.
+
+## Change the Volume
+
+You can increase or decrease the volume while listening to music.
+
+1. Find the **Volume** control.
+2. Increase the volume to make the music louder.
+3. Decrease the volume to make the music quieter.
+
+## Use Shuffle
+
+Shuffle plays songs in a different order.
+
+1. Open a playlist or album.
+2. Select the **Shuffle** icon.
+3. The songs will play in a shuffled order.
+
+Select the **Shuffle** icon again to turn it off.
+
+## Use Repeat
+
+Repeat allows you to play a song, album, or playlist again.
+
+1. Start playing music.
+2. Select the **Repeat** icon.
+3. Select it again to change the repeat option.
