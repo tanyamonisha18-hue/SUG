@@ -1,0 +1,64 @@
+# Chapter 2: Getting Started with Spotify
+
+## What You Need
+
+Before you start using Spotify, you need:
+
+- A smartphone, tablet, or computer
+- An internet connection
+- A Spotify account
+- The Spotify app or a web browser
+
+## Create a Spotify Account
+
+If you do not have a Spotify account, you can create one.
+
+### Steps
+
+1. Open the Spotify app or Spotify website.
+2. Select **Sign up**.
+3. Enter your email address.
+4. Create a password.
+5. Enter your date of birth.
+6. Enter your name.
+7. Select **Sign up**.
+
+Your Spotify account is now ready to use.
+
+## Log In to Spotify
+
+If you already have an account, you can log in.
+
+### Steps
+
+1. Open Spotify.
+2. Select **Log in**.
+3. Enter your email address.
+4. Enter your password.
+5. Select **Log in**.
+
+## Choose Your Music Preferences
+
+When you start using Spotify, you may see music recommendations based on your interests.
+
+You can search for your favorite:
+
+- Artists
+- Songs
+- Albums
+- Playlists
+- Podcasts
+
+Listening to different types of music helps Spotify provide better recommendations.
+
+## Explore the Spotify Home Page
+
+After you log in, the **Home** page shows different music and audio content.
+
+You can find:
+
+- Recommended songs
+- Recently played music
+- Popular playlists
+- New releases
+- Podcasts
