@@ -1,0 +1,69 @@
+# Chapter 3: Using the Spotify Interface
+
+## Spotify Home Page
+
+The Spotify Home page helps you find music and other audio content.
+
+You can use the Home page to:
+
+- Find recommended music.
+- Continue listening to recently played songs.
+- Find new releases.
+- Browse playlists.
+- Find podcasts.
+
+## Your Library
+
+**Your Library** stores the music and playlists that you save.
+
+You can use Your Library to find:
+
+- Playlists
+- Songs
+- Albums
+- Artists
+- Podcasts
+
+## Search
+
+The **Search** option helps you find specific content.
+
+You can search for:
+
+- Songs
+- Artists
+- Albums
+- Playlists
+- Podcasts
+
+### Search for Music
+
+1. Select **Search**.
+2. Enter the name of a song or artist.
+3. Select a result from the list.
+4. Select **Play** to listen.
+
+## Music Player
+
+The music player appears when you play a song.
+
+You can use the music player to:
+
+- Play or pause a song.
+- Skip to the next song.
+- Go back to the previous song.
+- Change the volume.
+- Turn Shuffle on or off.
+- Turn Repeat on or off.
+
+## Settings
+
+You can use **Settings** to change different Spotify options.
+
+Depending on your device and account, you can change settings such as:
+
+- Audio quality
+- Notifications
+- Language
+- Playback options
+- Privacy settings
