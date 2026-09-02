@@ -1,0 +1,55 @@
+# Chapter 7: Saving and Managing Favorite Music
+
+## Save a Song
+
+You can save songs that you like to find them easily later.
+
+### Steps
+
+1. Open Spotify.
+2. Find the song you want to save.
+3. Select the **Like** button.
+4. The song is added to your liked songs.
+
+## Find Liked Songs
+
+You can find the songs you have saved in **Your Library**.
+
+### Steps
+
+1. Open Spotify.
+2. Go to **Your Library**.
+3. Select **Liked Songs**.
+4. Select a song to play it.
+
+## Save an Album
+
+You can save an album to your library.
+
+### Steps
+
+1. Search for an album.
+2. Open the album.
+3. Select the **Like** or **Save** option.
+4. The album is added to your library.
+
+## Follow an Artist
+
+You can follow your favorite artists to keep up with their new music.
+
+### Steps
+
+1. Search for the artist.
+2. Open the artist's profile.
+3. Select **Follow**.
+
+## Remove a Saved Song
+
+If you no longer want to save a song, you can remove it.
+
+### Steps
+
+1. Open **Your Library**.
+2. Open **Liked Songs**.
+3. Find the song you want to remove.
+4. Select the **Like** button again.
