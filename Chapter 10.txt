@@ -1,0 +1,84 @@
+# Chapter 10: Spotify Settings and Useful Features
+
+## Open Spotify Settings
+
+Spotify has different settings that you can use to change how the app works.
+
+### Steps
+
+1. Open Spotify.
+2. Open your **Profile**.
+3. Select **Settings and privacy**.
+4. Browse the available settings.
+5. Select a setting to change it.
+
+## Change Audio Quality
+
+You can change the audio quality based on your preference and internet connection.
+
+### Steps
+
+1. Open **Settings and privacy**.
+2. Find **Audio quality**.
+3. Select the audio quality you want.
+4. Close the settings.
+
+## Change Language
+
+You can change the language used by the Spotify app.
+
+### Steps
+
+1. Open your device settings or Spotify settings.
+2. Find the language option.
+3. Select your preferred language.
+4. Save the changes if required.
+
+## Use Offline Listening
+
+Some Spotify plans allow you to download music and podcasts for offline listening.
+
+### Steps
+
+1. Connect your device to the internet.
+2. Open a playlist, album, or podcast.
+3. Select the **Download** option.
+4. Wait for the content to download.
+5. Listen to the downloaded content when you are offline.
+
+## Use Lyrics
+
+Spotify provides lyrics for many songs.
+
+### Steps
+
+1. Play a song.
+2. Open the **Now Playing** screen.
+3. Scroll to the lyrics section.
+4. Follow the lyrics while the song plays.
+
+## Share Music
+
+You can share songs, albums, playlists, and podcasts with other people.
+
+### Steps
+
+1. Open the song, album, playlist, or podcast.
+2. Select the **More** option.
+3. Select **Share**.
+4. Choose where you want to share it.
+
+## Spotify Wrapped
+
+Spotify Wrapped is a yearly feature that shows information about your listening activity.
+
+It can show:
+
+- Your most-played songs.
+- Your favorite artists.
+- Your most-listened-to music.
+- Your listening habits.
+
+## Summary
+
+Spotify has many settings and features that can improve your listening experience. You can change audio settings, download content for offline listening, view lyrics, share music, and check your yearly Spotify Wrapped.
