@@ -1,0 +1,62 @@
+# Chapter 4: Searching for Music
+
+## Search for Music
+
+Spotify allows you to search for songs, artists, albums, playlists, and podcasts.
+
+You can use the Search option to quickly find the content you want.
+
+## Search for a Song
+
+Follow these steps to search for a song:
+
+1. Open Spotify.
+2. Select **Search**.
+3. Enter the name of the song.
+4. Select the song from the search results.
+5. Select **Play**.
+
+## Search for an Artist
+
+You can search for your favorite artist to find their songs and albums.
+
+### Steps
+
+1. Select **Search**.
+2. Enter the artist's name.
+3. Select the artist from the results.
+4. Browse the artist's songs and albums.
+
+## Search for an Album
+
+You can also search for a specific album.
+
+### Steps
+
+1. Select **Search**.
+2. Enter the album name.
+3. Select the album from the results.
+4. Select a song to start playing.
+
+## Search for a Playlist
+
+Spotify has many playlists created by Spotify and other users.
+
+### Steps
+
+1. Select **Search**.
+2. Enter the name of the playlist.
+3. Select the playlist from the results.
+4. Select **Play**.
+
+## Search for a Podcast
+
+You can use Spotify to find podcasts about different topics.
+
+### Steps
+
+1. Select **Search**.
+2. Enter the name of a podcast or topic.
+3. Select the podcast from the results.
+4. Select an episode.
+5. Select **Play**.
