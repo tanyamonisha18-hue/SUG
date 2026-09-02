@@ -1,0 +1,56 @@
+# Chapter 8: Listening to Podcasts
+
+## What Is a Podcast?
+
+A podcast is a series of audio episodes about a specific topic. Spotify has podcasts about many different subjects.
+
+You can find podcasts about:
+
+- News
+- Education
+- Sports
+- Comedy
+- Technology
+- Stories
+- Health and fitness
+
+## Search for a Podcast
+
+You can use the Search option to find a podcast.
+
+### Steps
+
+1. Open Spotify.
+2. Select **Search**.
+3. Enter the name of a podcast or topic.
+4. Select the podcast from the search results.
+
+## Play a Podcast Episode
+
+After finding a podcast, you can select an episode and start listening.
+
+### Steps
+
+1. Open the podcast.
+2. Select an episode.
+3. Select **Play**.
+4. Use the playback controls to pause, play, or skip the episode.
+
+## Follow a Podcast
+
+You can follow a podcast to find it easily in the future.
+
+### Steps
+
+1. Open the podcast.
+2. Select **Follow**.
+3. The podcast is added to your library.
+
+## Find Your Podcasts
+
+You can find the podcasts you follow in **Your Library**.
+
+1. Open Spotify.
+2. Go to **Your Library**.
+3. Select the podcast you want to listen to.
+4. Select an episode.
